@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 I am new to GitHub! Share some tips and tricks! 😀
+I'm currently taking a career transition programme by Generation Singapore and learning fundamentals in Python, SQL, Git and many more!
